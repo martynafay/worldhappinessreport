@@ -1,2 +1,2 @@
 # worldhappinessreport
-A project for MAP 4103 Mathematical Modeling where we learned about neural networks and applied it to data sets. 
+There is a class at Florida State University called Mathematical Modeling that is required for all Applied Mathematics students (it's apart of our core classes). During this particular week, we learned about data science and the different applications of it. My group and I looked on Kaggle to find a dataset, and settled on the dataset for world happiness. We wanted to figure out how to predict the world happiness score, by using the neural network package provided in sklearn. What you will see here is my version of this code
